@@ -42,10 +42,10 @@ Reminders are in-app rather than OS push notifications. A `ReminderManager` runs
 ## Screenshots
 | Screen | Image |
 |---|---|
-| Home | `docs/home.png` |
-| Add Medication | `docs/add-medication.png` |
-| Reminder Popup | `docs/popup.png` |
-| History | `docs/history.png` |
+| Home | `images/home.png` |
+| Add Medication | `images/add-medication.png` |
+| Reminder Popup | `images/popup.png` |
+| History | `images/history.png` |
 
 ## Test cases
 
