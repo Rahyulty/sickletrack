@@ -1,0 +1,49 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / VS Code cache
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity files
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# Asset meta data inside ignored folders
+/[Mm]emoryCaptures/
+/[Aa]ssets/AssetStoreTools*
+
+# Unused TMP examples (huge folder)
+/Assets/TextMesh Pro/Examples & Extras/
+/Assets/TextMesh Pro/Examples & Extras.meta
+
+# Unity recovery folder
+/Assets/_Recovery/
+/Assets/_Recovery.meta
